@@ -8,6 +8,7 @@ namespace KhuBrick
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int test;
 
         public Game1()
         {
